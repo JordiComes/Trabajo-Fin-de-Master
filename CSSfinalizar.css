@@ -1,0 +1,64 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+#logo {
+  width: 100px;
+}
+
+.finalizar {
+  margin: 3px;
+  line-height: 50px;
+  letter-spacing: 7px;
+}
+
+.datos {
+  display: table-cell;
+  padding: 10px;
+}
+
+.datos:nth-child(1) h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.datos:nth-child(2) h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.btn-pagar{
+  padding: 16px 20px;
+  font-size: 18px;
+  background: linear-gradient(45deg, transparent 5%, black 5%);
+  border: 0;
+  color: #C3FD00;
+  letter-spacing: 3px;
+  line-height: 1;
+  box-shadow: 6px 0 0 grey;
+  outline: transparent;
+  position: relative;
+}
+
+@media(min-width: 768px){
+  .datos p{
+    line-height: 30px;
+  }
+}
+
+@media(min-width: 1024px){
+  .finalizar{
+    width: 1000px;
+    margin: auto;
+  }
+  .datos p{
+    line-height: 40px;
+  }
+}
+
+@media(min-width: 1280px){
+  .finalizar {
+    width: 1200px;
+  }
+}

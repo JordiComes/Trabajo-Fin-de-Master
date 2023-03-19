@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dda7805f-5f79-47ee-ad94-d3f458f902fb" name="Xampp" url="http://localhost:8080/TFM">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\TFM" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

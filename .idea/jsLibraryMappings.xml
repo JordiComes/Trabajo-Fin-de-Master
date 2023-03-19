@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{ab8519deb4, eb496ab1a0, font-awesome, ionicons, jquery-3.6.0, plotly-latest}" />
+  </component>
+</project>
